@@ -1,8 +1,3 @@
-https://aelarassi.com/
-
-https://aashutosh.dev/
-
- 
 # Clone-Library
 ## Descrição
 
@@ -26,6 +21,19 @@ Durante o desenvolvimento deste projeto, enfrentamos e superamos os seguintes de
 - Organização eficiente de elementos em linhas e colunas, visando proporcionar uma experiência de usuário agradável.
 - Utilização de elementos sobrepostos para criar camadas de design envolventes e interessantes.
 
+## Time
+  
+Alisson Rodrigues (alisson1925)
+Eduardo (eduardo1859)
+Eliaxn (eliaxn)
+Gustavo Lira (GustavLira)
+Jean Reginaldo (jeanreginaldo)
+Jhonathan (Jhonathann1)
+
+## Fonte
+
+https://aelarassi.com/
+https://aashutosh.dev/
 
 ## Preview
 
