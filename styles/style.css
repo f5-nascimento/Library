@@ -1,0 +1,14 @@
+@import url(landing-css/footer-landing.css);
+@import url(landing-css/main-landing.css);
+@import url(landing-css/nav-landing.css);
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+main{
+    width: 100vw;
+    height: 100vh;
+}
