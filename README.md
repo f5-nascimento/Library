@@ -29,7 +29,7 @@ Durante o desenvolvimento deste projeto, enfrentamos e superamos os seguintes de
 - Gustavo Lira (GustavLira)
 - Jean Reginaldo (jeanreginaldo)
 - Jhonathan (Jhonathann1)
-- Lazaro Kauã (LazaroKaua)
+- Lázaro Kauã (LazaroKaua)
 - Leiliane Bravo (leilianebravo)
 - Lucas Miguel (LucasMiguel2003)
 - Pedro (Pedro235MC)
