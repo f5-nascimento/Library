@@ -1,0 +1,107 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+body{
+    font-family: Roboto ;
+}
+nav{
+    display: inline-block;
+    
+   
+}
+
+a{
+    color: white;
+    text-decoration: none;
+}
+a:active{
+    animation: cores 5s infinite;
+
+}
+
+.nome{
+    animation: cores 15s infinite;
+}
+
+.home{
+    position: absolute;
+    margin-left: 1280px;
+    top: 25px;
+    font-size: 20px;
+}
+
+.login{
+    position: absolute;
+    margin-left: 1480px;
+    top: 24px;
+    font-size: 20px;
+}
+.blog{
+    position: absolute;
+    margin-left: 1640px;
+    top: 23px;
+    font-size: 20px;
+}
+
+.projeto{
+    position: absolute;
+    margin-left: 1630px;
+    top: 22px;
+    font-size: 20px;
+}
+
+header{
+    background: rgb(39, 38, 38);
+    width: 100%;
+    position: fixed;
+    width: 100%;
+    left: 0;
+}
+
+
+home{
+    color: white;
+    text-decoration: none;
+    margin-left: 400px;
+
+}
+
+@keyframes cores{
+    0%{
+        color: red;
+  }
+  5%{
+      color: rgb(255, 60, 0);
+  }
+  10%{
+      color: rgb(255, 102, 0);
+  }
+  12%{
+      color: rgb(255, 187, 0);
+  }
+  15%{
+      color: yellow;
+  }
+ 17%{
+     color: rgb(208, 255, 0);
+ }
+20%{
+     color: greenyellow;
+}
+25%{
+    color: cyan;
+}
+30%{
+    color: rgb(7, 135, 255);
+}
+35%{
+    color: rgb(1, 27, 255);
+}
+40%{
+    color: blueviolet;
+}
+45%{
+    color: rgb(206, 10, 245);
+}
+100%{
+    color: red;
+}
+}
