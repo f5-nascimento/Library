@@ -51,6 +51,6 @@ https://github.com/f5-nascimento/Library
 
 ## Deploy
 
-O projeto está disponível em ..... para visualização.
+O projeto está disponível em [Sanma Imo no Vercel](https://about-me-kohl-rho.vercel.app/) para visualização.
 
 Seja bem-vindo ao Sanma Imo, e sinta-se à vontade para contribuir ou entrar em contato conosco!
