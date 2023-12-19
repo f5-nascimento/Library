@@ -35,7 +35,7 @@ Durante o desenvolvimento deste projeto, enfrentamos e superamos os seguintes de
 - Pedro (Pedro235MC)
 - Thiago (thiagohcsdc)
 
-  ## Mentor
+## Mentor
   
 - Felipe Nascimento (f5-nascimento)
 
