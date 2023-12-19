@@ -23,17 +23,17 @@ Durante o desenvolvimento deste projeto, enfrentamos e superamos os seguintes de
 
 ## Time
   
-Alisson Rodrigues (alisson1925)
-Eduardo (eduardo1859)
-Eliaxn (eliaxn)
-Gustavo Lira (GustavLira)
-Jean Reginaldo (jeanreginaldo)
-Jhonathan (Jhonathann1)
-Lazaro Kauã (LazaroKaua)
-Leiliane Bravo (leilianebravo)
-Lucas Miguel (LucasMiguel2003)
-Pedro (Pedro235MC)
-Thiago (thiagohcsdc)
+- Alisson Rodrigues (alisson1925)
+- Eduardo (eduardo1859)
+- Eliaxn (eliaxn)
+- Gustavo Lira (GustavLira)
+- Jean Reginaldo (jeanreginaldo)
+- Jhonathan (Jhonathann1)
+- Lazaro Kauã (LazaroKaua)
+- Leiliane Bravo (leilianebravo)
+- Lucas Miguel (LucasMiguel2003)
+- Pedro (Pedro235MC)
+- Thiago (thiagohcsdc)
 
 ## Fonte
 
