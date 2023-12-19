@@ -1,7 +1,7 @@
-# Clone-Library
+# Sanma Imo
 ## Descrição
 
-O "Projeto Library" é a página inicial de um Sistema de Gestão para Bibliotecas em desenvolvimento, focado em Desenvolvimento Front End.
+O "Sanma Imo" é a página inicial de um Sistema de Gestão para Bibliotecas em desenvolvimento, focado em Desenvolvimento Front End.
 
 ## Objetivo
 
