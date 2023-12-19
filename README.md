@@ -29,6 +29,11 @@ Eliaxn (eliaxn)
 Gustavo Lira (GustavLira)
 Jean Reginaldo (jeanreginaldo)
 Jhonathan (Jhonathann1)
+Lazaro Kauã (LazaroKaua)
+Leiliane Bravo (leilianebravo)
+Lucas Miguel (LucasMiguel2003)
+Pedro (Pedro235MC)
+Thiago (thiagohcsdc)
 
 ## Fonte
 
