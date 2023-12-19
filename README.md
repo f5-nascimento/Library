@@ -53,4 +53,4 @@ https://github.com/f5-nascimento/Library
 
 O projeto está disponível em ..... para visualização.
 
-Seja bem-vindo ao Clone-Library, e sinta-se à vontade para contribuir ou entrar em contato conosco!
+Seja bem-vindo ao Sanma Imo, e sinta-se à vontade para contribuir ou entrar em contato conosco!
