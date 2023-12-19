@@ -11,7 +11,6 @@ O principal objetivo deste projeto é criar uma página inicial atraente e funci
 - HTML: Para a estrutura da página.
 - CSS: Para o estilo e layout da página.
 - Git e GitHub: Para o controle de versão e hospedagem do código.
-- Figma: Para a clonagem do design.
 - Vercel: Para implantação e hospedagem.
 
 ## Desafios
@@ -41,9 +40,9 @@ Durante o desenvolvimento deste projeto, enfrentamos e superamos os seguintes de
 
 ## Fonte
 
-https://aelarassi.com/
-https://aashutosh.dev/
-https://abassdev.com/#services
+[aelarassi](https://aelarassi.com/)
+[aashutosh](https://aashutosh.dev/)
+[abassdev](https://abassdev.com/#services)
 
 ## Preview
 
