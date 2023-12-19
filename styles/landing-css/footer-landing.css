@@ -28,3 +28,15 @@
     text-decoration: none;
     color: #b2afaf;
 }
+
+.rodape__icons{
+    display: flex;
+    justify-content: center;
+    gap: 1em;
+    padding: 1em 0 0 0;
+}
+
+.icons__imagens{
+    height: 35px;
+    filter: invert(98%) sepia(0%) saturate(6968%) hue-rotate(105deg) brightness(81%) contrast(91%);
+}
