@@ -23,6 +23,10 @@ header {
 
 #logo {
     color: #fff; /* Cor do texto do logo */
+    margin-left: 50px;
+    font-family: var(--fonte-nav);
+    font-size: 1.5em;
+    letter-spacing: 10px;
 }
 
 nav {
@@ -46,8 +50,14 @@ nav ul li:last-child {
 }
 
 nav a {
-    font-size: 18px;
+    letter-spacing: 4px;
+    font-size: 1.2em;
     text-decoration: none;
     color: #fff; /* Cor do texto dos links */
+}
+
+nav a:hover {
+    text-decoration: underline;
+    background-color: rgba(255, 255, 255, 0.1);
 }
 
