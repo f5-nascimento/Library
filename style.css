@@ -15,7 +15,7 @@ body {
     justify-content: center;
     width: 100%;
     height: 100vh;
-    background-color: #480ca8;
+    background-color: #f3ebd7;
 }
 
 .formLogin {
@@ -59,7 +59,7 @@ body {
 
 
 .formLogin input:focus {
-    border: 1px solid #f72585;
+    border: 1px solid #764d22;
 }
 
 .formLogin label {
@@ -76,11 +76,11 @@ body {
 }
 
 .formLogin a:hover {
-    color: #f72585;
+    color: #764d22;
 }
 
 .btn {
-    background-color: #f72585;
+    background-color: #764d22;
     color: #fff;
     font-size: 14px;
     font-weight: 600;
@@ -93,6 +93,6 @@ body {
 
 .btn:hover {
     transform: scale(1.05);
-    background-color: #ff0676;
+    background-color: #764d22;
 
 }
