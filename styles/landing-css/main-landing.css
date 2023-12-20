@@ -1,7 +1,7 @@
-*{
-    margin: 0px;
-    padding: 0px;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap');
+main{
+    
+    font-family: 'Roboto', 'Arial Narrow', Arial, sans-serif;
     text-align: center;
     margin: auto;
 }
