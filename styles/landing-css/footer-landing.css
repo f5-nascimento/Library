@@ -18,22 +18,14 @@
     justify-content: center;
 }
 
-.rodape__titulo {
-    color: #fff;
-    padding: 0.5em 0;
-    font-size: 25px;
-}
-
-#rodape__link{
-    text-decoration: none;
-    color: #b2afaf;
-}
 
 .rodape__icons{
+    margin: 2em 0 0 0;
     display: flex;
     justify-content: center;
+    align-items: center;
     gap: 1em;
-    padding: 1em 0 0 0;
+    padding: 2em 0 0 0;
 }
 
 .icons__imagens{
