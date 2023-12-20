@@ -12,3 +12,81 @@ main{
     width: 100vw;
     height: 100vh;
 }
+
+.servicos{
+   
+    width: 100vw;
+    height: 424px;
+    margin: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.texto-servicos{
+    width: 100vw;
+    height: 131px;
+}
+
+.texto-servicos h2{
+    width: 100vw;
+    height: 80px;
+    color: #111826;
+    font-size: 32px;
+    line-height: 40px;
+    font-weight: 500;
+}
+
+.card-servicos{
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 90vw;
+    height: 400px;
+}
+
+.box-servicos{
+    width: 300px;
+    height: 250px;
+    background: #f3ebd7;
+    margin-right: 21px;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.box-servicos img{
+    width: 67px;
+    height: 67px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+.box-servicos h1{
+    width: 200px;
+    height: 30px;
+    color: #111826;
+    font-size: 17px;
+    font-weight: 700;
+    line-height: 30px;
+    margin: 10px;
+    
+}
+
+.box-servicos p{
+    width: 260px;
+    height: 70px;
+    font-size: 14px;
+    font-weight: 400px;
+    line-height: 18px;
+    color: #513f2d;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 10px;
+}
