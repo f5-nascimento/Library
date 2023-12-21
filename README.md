@@ -38,16 +38,6 @@ Durante o desenvolvimento deste projeto, enfrentamos e superamos os seguintes de
   
 - Felippe Nascimento (f5-nascimento)
 
-## Fonte
-
-[aelarassi](https://aelarassi.com/)
-[aashutosh](https://aashutosh.dev/)
-[abassdev](https://abassdev.com/#services)
-
-## Preview
-
-https://github.com/f5-nascimento/Library
-
 ## Deploy
 
 O projeto está disponível em [Sanma Imo no Vercel](https://library-seven-lyart.vercel.app/) para visualização.
