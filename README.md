@@ -38,10 +38,6 @@ Durante o desenvolvimento deste projeto, enfrentamos e superamos os seguintes de
   
 - Felippe Nascimento (f5-nascimento)
 
-## Preview
-
-https://github.com/f5-nascimento/Library
-
 ## Deploy
 
 O projeto está disponível em [Sanma Imo no Vercel](https://library-seven-lyart.vercel.app/) para visualização.
