@@ -36,7 +36,7 @@ Durante o desenvolvimento deste projeto, enfrentamos e superamos os seguintes de
 
 ## Mentor
   
-- Felipe Nascimento (f5-nascimento)
+- Felippe Nascimento (f5-nascimento)
 
 ## Fonte
 
