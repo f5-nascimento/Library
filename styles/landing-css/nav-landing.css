@@ -27,6 +27,19 @@ header {
     font-family: var(--fonte-nav);
     font-size: 1.5em;
     letter-spacing: 10px;
+    font-weight: bold;
+}
+
+#logo a{
+    text-align: center;
+    padding: 10px 15px;
+    border-radius: 6px;
+    color: #fff;
+    text-decoration: none;
+}
+
+#logo a:hover{
+    background-color: rgba(255, 255, 255, 0.055);
 }
 
 nav {
@@ -36,29 +49,31 @@ nav {
 
 nav ul {
     list-style-type: none;
-    margin-right: 50px;
+    margin-right: 20px;
     padding: 0;
     display: flex;
 }
 
-nav ul li {
-    margin-right: 40px; /* Espaçamento entre os itens do menu */
+nav li {
+    margin-right: 30px; /* Espaçamento entre os itens do menu */
 }
 
-nav ul li:last-child {
+nav li:last-child {
     margin-right: 0; /* Remove o espaçamento à direita do último item do menu */
 }
 
 nav a {
+    padding: 8px;
+    border-radius: 5px;
     letter-spacing: 4px;
-    font-size: 1.2em;
+    font-size: 1.08em;
     text-decoration: none;
     color: #fff; /* Cor do texto dos links */
 }
 
 nav a:hover {
-    size: 10px;
+    text-align: center;
     text-decoration: underline;
     background-color: rgba(255, 255, 255, 0.1);
+    border-radius: 5px;
 }
-
