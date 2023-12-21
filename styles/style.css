@@ -2,91 +2,96 @@
 @import url(landing-css/main-landing.css);
 @import url(landing-css/nav-landing.css);
 
-*{
+* {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
 }
 
-main{
-    width: 100vw;
-    height: 100vh;
+main {
+    width: 100%;
+    min-height: 100vh;
 }
 
-.servicos{
-   
-    width: 100vw;
-    height: 424px;
-    margin: 10px;
+.servicos {
+    width: 90%;
+    max-width: 1200px;
+    margin: 10px auto;
     display: flex;
     align-items: center;
     justify-content: center;
     flex-direction: column;
 }
 
-.texto-servicos{
-    width: 100vw;
-    height: 131px;
+.texto-servicos {
+    width: 100%;
+    max-width: 800px;
+    margin-bottom: 20px;
 }
 
-.texto-servicos h2{
-    width: 100vw;
-    height: 80px;
+.texto-servicos h2 {
+    width: 100%;
+    height: auto;
     color: #111826;
-    font-size: 32px;
-    line-height: 40px;
+    font-size: 2em;
+    line-height: 1.25;
     font-weight: 500;
 }
 
-.card-servicos{
-    display: inline-flex;
+.card-servicos {
+    width: 90%;
+    max-width: 1200px;
+    height: auto;
+    margin: 10px auto;
+    display: flex;
     align-items: center;
     justify-content: center;
-    width: 90vw;
-    height: 400px;
+    flex-wrap: wrap;
 }
 
-.box-servicos{
-    width: 300px;
-    height: 250px;
+.box-servicos {
+    width: 90%; /* Alterado para 90% para telas menores */
+    max-width: 300px; /* Largura máxima para evitar que fique muito largo em telas grandes */
+    margin: 10px;
     background: #f3ebd7;
-    margin-right: 21px;
     border-radius: 10px;
     display: flex;
-    align-items: center;
-    justify-content: center;
     flex-direction: column;
-}
-
-.box-servicos img{
-    width: 67px;
-    height: 67px;
-    display: flex;
     align-items: center;
     justify-content: center;
-    
+    padding: 20px; /* Aumentado o padding para melhor espaçamento em telas menores */
 }
 
-.box-servicos h1{
-    width: 200px;
-    height: 30px;
+.box-servicos img {
+    width: 50%;
+    height: auto;
+    margin-bottom: 10px;
+}
+
+.box-servicos h1 {
+    width: 100%;
+    height: auto;
     color: #111826;
-    font-size: 17px;
+    font-size: 1.2em;
     font-weight: 700;
-    line-height: 30px;
+    line-height: 1.25;
     margin: 10px;
-    
 }
 
-.box-servicos p{
-    width: 260px;
-    height: 70px;
-    font-size: 14px;
-    font-weight: 400px;
-    line-height: 18px;
+.box-servicos p {
+    width: 100%;
+    height: auto;
+    font-size: 0.8em;
+    font-weight: 400;
+    line-height: 1.25;
     color: #513f2d;
-    display: flex;
-    align-items: center;
-    justify-content: center;
+    text-align: center;
     margin-top: 10px;
+}
+
+/* Media query para dispositivos móveis */
+@media screen and (max-width: 600px) {
+    .box-servicos {
+        width: 100%; /* Ocupa 100% da largura do container pai em telas menores */
+    }
 }
