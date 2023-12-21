@@ -6,9 +6,9 @@
 
 .rodape {
     background-color: #252525fa;
-    width: 100vw;
     height: 20vh;
     text-align: center;
+    border-radius: 5px;
 }
 
 .container {

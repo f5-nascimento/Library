@@ -9,6 +9,7 @@
 body {
     margin: 0;
     padding: 0;
+    overflow-x: hidden;
 }
 
 header {
@@ -19,6 +20,7 @@ header {
     align-items: center; /* Centraliza verticalmente os elementos */
     flex-wrap: wrap;
     flex-direction: row;
+    border-radius: 5px;
 }
 
 #logo {
@@ -40,6 +42,8 @@ header {
 
 #logo a:hover{
     background-color: rgba(255, 255, 255, 0.055);
+    border: 1px solid rgba(255, 255, 255, 0.027);
+
 }
 
 nav {
@@ -73,7 +77,7 @@ nav a {
 
 nav a:hover {
     text-align: center;
-    text-decoration: underline;
     background-color: rgba(255, 255, 255, 0.1);
     border-radius: 5px;
+    border: 1px solid rgba(255, 255, 255, 0.1);
 }
