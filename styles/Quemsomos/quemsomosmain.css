@@ -6,15 +6,20 @@
     font-family: roboto;
 }
 
-main{ 
+body{
+    background-color: #333;
+}
+
+main{
+
     background-image: url(/assets/landing-assets/logo/2LOGO2.png);
     background-repeat: no-repeat;
-    background-attachment:   ;
     background-position: center;
-    background-size: 50% 100%;
+    background-size: 40% 80%;
     display: flex;
     align-items: center;
     flex-direction: column;
+    margin-bottom: 70px;
 }
 
 
@@ -23,7 +28,9 @@ main{
     flex-direction: row;
     align-items: center;
     gap: 60px;
+    margin-top: 70px;
     margin-bottom: 30px;
+
 }
 
 #topprin{
@@ -35,7 +42,7 @@ main{
     width: 400px;
     height: 300px;
     background-color: #f3ebd7;
-    box-shadow: 15px 20px 15px -3px rgba(0,0,0,0.1);
+    box-shadow: 15px 20px 15px -3px rgba(255, 255, 255, 0.3);
     margin: 20px; 
 }
 
@@ -55,7 +62,7 @@ h2 {
 .grade {
     display: flex;
     flex-direction: row;
-    gap: 30px;
+    gap: 90px;
     margin-bottom: 30px;
 }
 
@@ -64,8 +71,8 @@ h2 {
     width: 400px;
     height: 300px;
     background-color: #f3ebd7;
-    box-shadow: 15px 20px 15px -3px rgba(0,0,0,0.1);
-    margin: 20px;   
+    box-shadow: 15px 20px 15px -3px rgba(255, 255, 255, 0.3);
+    margin: 40px;   
 }
 
 .bloquinho, .cima, .baixo {
